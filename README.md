@@ -1,0 +1,2 @@
+# RestAPIAutomationFramework
+RestAPIAutomationFramework with Restasured and java
